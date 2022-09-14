@@ -14,5 +14,4 @@
     <summary>certificates📜</summary>
     HTML , CSS , PYTHON
 </details>
-<details>
-</details>
+
