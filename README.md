@@ -1,5 +1,18 @@
 <img src="banner copy.png">
+<h1><a href="mohammdimahdi.github.io">mohammdimahdi.github.io</a> </h1>
 <details>
-    <summary>Preview</summary>
-    <img loading="lazy" src="EXAMPLES/AbhishekSinghDhadwal.webp">
-  </details>
+    <summary>Skill💪</summary>
+    HTML , CSS , PYTHON
+</details>
+<details>
+    <summary>Project🎯</summary>
+    1.-----------
+    1.-----------
+    1.-----------
+</details>
+<details>
+    <summary>certificates📜</summary>
+    HTML , CSS , PYTHON
+</details>
+<details>
+</details>
