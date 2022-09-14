@@ -1,1 +1,1 @@
-<a align="center">Mahdi Mohammadi<a>
+<img src="banner copy.png">
